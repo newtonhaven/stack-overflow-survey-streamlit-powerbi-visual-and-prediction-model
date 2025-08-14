@@ -5,7 +5,6 @@ This repository contains a Power BI project and an accompanying prediction model
 ## Files of interest
 - `ProjeST.pbix` — Power BI report (Power BI Desktop file).
 - `ProjeST.pdf` — Exported PDF of the Power BI report (embedded below).
-- `Stack Overflow Developer Survey 2024 – Power BI Project Report.pdf` — Written project report (embedded below).
 - `PredictionModel.ipynb` — Jupyter notebook with the prediction model and experiments.
 
 ## How to view
