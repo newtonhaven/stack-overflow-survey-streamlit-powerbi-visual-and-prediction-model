@@ -1,7 +1,10 @@
 # Stack Overflow 2023 Survey — Power BI & Streamlit Visualization & Prediction Model
-## _(For **Streamlit project** please seek streamlit folder in this repo)_
 
-This repository contains a Streamlit app also a Power BI project and an accompanying prediction model built from the Stack Overflow Developer Survey 2024 data. The Streamlit app (see the streamlit folder) provides interactive visualizations; the repo also includes the Power BI report file (ProjeST.pbix), an exported Power BI PDF (ProjeST.pdf), a project report PDF, and a Jupyter notebook (PredictionModel.ipynb) with the prediction model and experiments.
+> [!NOTE]  
+> For **Streamlit project** please seek streamlit folder in this repo
+---
+
+This repository contains a Streamlit app also a Power BI project and an accompanying prediction model built from the Stack Overflow Developer Survey 2023 data. The Streamlit app (see the streamlit folder) provides interactive visualizations; the repo also includes the Power BI report file (ProjeST.pbix), an exported Power BI PDF (ProjeST.pdf), a project report PDF, and a Jupyter notebook (PredictionModel.ipynb) with the prediction model and experiments.
 
 ## Files of interest
 - **`streamlit folder`** - Includes all files and app.py related to streamlit project.
